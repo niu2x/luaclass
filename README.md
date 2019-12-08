@@ -1,6 +1,6 @@
-# luaclass
-lua class utils
+# Lua Class
 
+A lua object orientation class utils (*single file*).
 
 ## example
     local class = require 'class'
@@ -15,11 +15,6 @@ lua class utils
         -- body
         print('my age is ', self.age)
     end
-
-
-
-
-
 
     local Stu = class('Stu', Persion)
 
