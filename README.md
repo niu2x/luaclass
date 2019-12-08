@@ -43,7 +43,6 @@ lua class utils
     p1:show()
     p2:show()
     p3:show()
-    p3:show()
 
     local s1 = Stu:new(100, 10)
     s1:show()
