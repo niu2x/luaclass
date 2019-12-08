@@ -1,8 +1,8 @@
 package = "LuaClass"
-version = "1.0-1"
+version = "2.0-0"
 source = {
    url = "git://github.com/niu2x/luaclass",
-   tag = "v1.1",
+   tag = "v2.0",
 }
 description = {
    summary = "A lua class utils.",
@@ -17,7 +17,6 @@ dependencies = {
 }
 build = {
    type = "builtin",
-
    modules = {
       class = 'src/class.lua',
    },
