@@ -5,9 +5,9 @@ source = {
    tag = "v2.0",
 }
 description = {
-   summary = "A lua class utils.",
+   summary = "A lua object orientation class utils.",
    detailed = [[
-      blablabla....
+      A lua object orientation class utils.
    ]],
    homepage = "http://github.com/niu2x/luaclass", -- We don't have one yet
    license = "MIT/X11" -- or whatever you like
